@@ -1,0 +1,7 @@
+﻿  LDDEExercicio.cpp
+C:\Users\Arthur\Desktop\Nova pasta (4)\LDDE\LDDEExercicio.cpp(270,31): warning C4101: 'dados': variável local não referenciada
+C:\Users\Arthur\Desktop\Nova pasta (4)\LDDE\LDDEExercicio.cpp(392,35): warning C4101: 'atual2': variável local não referenciada
+C:\Users\Arthur\Desktop\Nova pasta (4)\LDDE\LDDEExercicio.cpp(842,25): warning C4101: 'opc2': variável local não referenciada
+C:\Users\Arthur\Desktop\Nova pasta (4)\LDDE\LDDEExercicio.cpp(987,24): warning C4101: 'dados': variável local não referenciada
+C:\Users\Arthur\Desktop\Nova pasta (4)\LDDE\LDDEExercicio.cpp(545,1): warning C4715: 'ExibirLDDERecursivo': nem todos os caminhos de controle retornam um valor
+  LDDE.vcxproj -> C:\Users\Arthur\Desktop\Nova pasta (4)\x64\Debug\LDDE.exe
